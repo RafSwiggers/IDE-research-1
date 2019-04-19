@@ -125,6 +125,7 @@ _Cheat Sheet_
 
 ## color
 1. _Color picker_
+
 The VS Code color picker UI is now available in HTML style sections.
 ![color](color.png)
 
